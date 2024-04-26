@@ -6,3 +6,7 @@ Scenario 3: Chennai to Kashmir
 Scenario 4: Singapore to Chennai
 Scenario 5: Chennai to Mumbai
 
+//Updated by Swathi
+Scenario 6: Cancel the Tickets
+
+
